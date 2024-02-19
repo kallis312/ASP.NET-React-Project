@@ -53,7 +53,7 @@ else
   app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+// app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
