@@ -79,3 +79,4 @@ wwwroot/
 # env
 
 .env
+appsettings.Development.json
